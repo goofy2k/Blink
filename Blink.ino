@@ -22,7 +22,9 @@
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 */
 
-// added by FV.   Why can't I edit README.md locally???
+// added locally by FV.   Why can't I edit README.md locally???  and edited somewhat remotely
+// added remotely by FV
+
 #define LED_BUILTIN 2
 
 // the setup function runs once when you press reset or power the board
